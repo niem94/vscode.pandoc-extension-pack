@@ -3,7 +3,7 @@
     "publisher": "niem94",
     "displayName": "Pandoc Extension Pack",
     "description": "A collection of useful extensions for working with Pandoc.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -17,6 +17,7 @@
     ],
     "extensionPack": [
         "notzaki.pandocciter",
-        "kzvi.pandoc-markdown-preview"
+        "kzvi.pandoc-markdown-preview",
+        "niem94.markdown-extension-pack"
     ]
 }
