@@ -18,6 +18,7 @@
     "extensionPack": [
         "notzaki.pandocciter",
         "kzvi.pandoc-markdown-preview",
-        "niem94.markdown-extension-pack"
+        "niem94.markdown-extension-pack",
+        "monofon.pandoc-format"
     ]
 }
